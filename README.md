@@ -1,5 +1,5 @@
 ### Hi there 👋
-you can call me Zulfikar, i live in Kepualaun Riau, Batam. i exited to learning about Frontend Web Development. I learning ReactJS, if you want to collaborate please contact me on instagram instagram.com/muhamad_zullfikar
+you can call me Zulfikar, i live in Kepualaun Riau, Batam. i excited to learning about Frontend Web Development. I learning ReactJS, if you want to collaborate please contact me on instagram instagram.com/muhamad_zullfikar
 
 
 <!-- **Muhamadzulfikar/Muhamadzulfikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
